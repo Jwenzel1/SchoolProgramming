@@ -1,0 +1,30 @@
+# Key: ‘filedir’ à Value: Path to the directory containing the text files to be analyzed
+
+filedir:./Shakesepeare/comedies
+
+# Key: ‘tfoutput’ à Value: Path to the output file for the Term Frequency (TF)
+
+tfoutput:./Results/Ctfoutput.txt
+
+# Key: ‘idfoutput’ à Value: Path to the output file for the Inverse Document Frequency (IDF)
+
+idfoutput:./Results/Cidfoutput.txt
+
+# Key: ‘tf- idfoutput’ à Value: Path to the output file for the TF-IDF
+
+tf-idfoutput:./Results/Ctf-idfoutput.txt
+
+filedir:/home/joe/Documents/School_Programming/433/exam1/Shakesepeare/histories
+tfoutput:./Results/Htfoutput.txt
+idfoutput:./Results/Hidfoutput.txt
+tf-idfoutput:./Results/Htf-idfoutput.txt
+
+filedir:./Shakesepeare/poetry
+tfoutput:./Results/Ptfoutput.txt
+idfoutput:./Results/Pidfoutput.txt
+tf-idfoutput:./Results/Ptf-idfoutput.txt
+
+filedir:./Shakesepeare/tragedies
+tfoutput:./Results/Ttfoutput.txt
+idfoutput:./Results/Tidfoutput.txt
+tf-idfoutput:./Results/Ttf-idfoutput.txt

@@ -1,0 +1,9 @@
+<html>
+<title>A simple HTML file for Homework 3</title>
+<body>
+The quick brown fox jumped over the <bold>lazy</bold> dog.
+Read about it at <pre>http://www.google.com</pre>
+<P>
+Not worried about href tags!
+</body>
+</html>
